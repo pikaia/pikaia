@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pikaia
 - 👀 I’m interested in automation of all kinds from old school self healing software through better exception handling to machine learning.
 - I use mostly python.
-- 🌱 I’m currently learning oython programming.
+- 🌱 I’m currently learning python programming.
